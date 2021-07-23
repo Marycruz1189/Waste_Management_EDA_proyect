@@ -1,1 +1,1 @@
-# Waste_Management_EDA_proyect
+# Waste_Management_EDA_project
