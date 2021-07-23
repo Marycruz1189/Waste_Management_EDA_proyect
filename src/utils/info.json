@@ -1,0 +1,11 @@
+{
+    "project_name" : "Waste Management", 
+    "author" : "Mary Cruz", 
+    "linkedin" : "https://www.linkedin.com/in/marycruzmezarivas/",
+    "e_mail" :  "maryc-11@hotmail.com",
+    "project_title" : "Waste Management Spain",
+    "project_description" : "Solid waste management is the one thing just about every city government provides for its residents. Although levels of service, impact, environmental impact and costs vary from one territory to another, solid waste management is undoubtedly one of the most important municipal services. It is for this reason that this project analyses the management in the autonomous communities of Spain",
+    "flask_port" : 6060,
+    "streamlit_port" : 8501,
+    "python_libraries_used" : ["streamlit", "pandas", "numpy", "flask", "re", "PIL", "requests", "plotly.express", "plotly.subplots", "plotly.graph_objects" ]
+}
